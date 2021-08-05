@@ -1,0 +1,92 @@
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\11925\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\MySql.Data.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\Google.Protobuf.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\Zstandard.Net.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\Renci.SshNet.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\System.Buffers.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\System.Memory.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дима\Desktop\LoginForm\LoginForm\bin\Debug\MySql.Data.xml
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.exe.config
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.RegisterForm.resources
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+C:\Users\Дима\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.UserForm.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\Google.Protobuf.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\Zstandard.Net.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\Renci.SshNet.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\System.Buffers.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\System.Memory.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\11925\Desktop\LoginForm\LoginForm\bin\Debug\MySql.Data.xml
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.LoginForm.exe.config
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.RegisterForm.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.UserForm.resources
+C:\Users\11925\Desktop\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\Google.Protobuf.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\Zstandard.Net.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\Renci.SshNet.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\System.Buffers.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\System.Memory.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\bin\Debug\MySql.Data.xml
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.exe.config
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.RegisterForm.resources
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.UserForm.resources
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Dima\Desktop\iq test\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
